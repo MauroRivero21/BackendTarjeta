@@ -1,0 +1,27 @@
+# Archivos de Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Carpetas de compilación
+bin/
+obj/
+
+# Archivos de configuración de paquetes
+project.lock.json
+project.fragment.lock.json
+*.nupkg
+*.snupkg
+*.symbols.nupkg
+
+# Archivos de configuración de NuGet
+*.nupkg
+*.nuspec
+
+# Archivos de logs
+*.log
+
+# Otros
+appsettings.Development.json
